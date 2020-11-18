@@ -18,7 +18,11 @@ form,input{
     padding: 5px;
     
 }
+ img{
+     width: 30%;
+     height: 30%;
 
+ }
 button{ 
     color:turquoise;
     padding: 5px;
