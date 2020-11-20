@@ -1,35 +1,34 @@
 @import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
-body{
-    font-family: Pangolin; 
+body {
+    font-family: Pangolin;
 }
 
-h2{
-   color: aqua;
-   margin-left: 85px;
+h2 {
+    color: aqua;
+    margin-left: 35%;
 }
 
-form{
-     
-   width: 50%;
-   margin-left: 20px;
-   text-align: center;  
+form {
+    width: 50%;
+    margin-left: 20%;
+    text-align: center;
 }
 
-input{
-   margin:  5px 0px ;
-   border: solid 3px;
-   border-radius: 50px; 
+input {
+    margin: 5px 0px;
+    border: solid 3px;
+    border-radius: 50px;
 }
 
-button{
+button {
     padding: 5px;
-    margin-left: 115px;
+    margin-left: 40%;
 }
 
-h5{
-    margin-left: 70px;
+h5 {
+    margin-left: 33%;
 }
-  
-p{
-   margin-left:85px; 
+
+p {
+    margin-left: 35%;
 }
