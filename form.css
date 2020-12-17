@@ -1,30 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
-body{
+body {
     font-family: Dancing Script;
     font-size: 25px;
     margin-left: 40%;
     margin-top: 5%;
 }
 
-h2{
+li {
+    display: inline;
+    padding: 0.5%;
+    margin-right: 60px;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+h2 {
     color: turquoise;
     font-weight: lighter;
     text-decoration: underline;
 }
 
-form,input{
+form,
+input {
     border-radius: 10px;
     margin: 10px auto;
     padding: 5px;
-    
 }
- img{
-     width: 30%;
-     height: 30%;
 
- }
-button{ 
-    color:turquoise;
+img {
+    width: 30%;
+    height: 30%;
+}
+
+button {
+    color: turquoise;
     padding: 5px;
     margin: 10px 10px;
     cursor: pointer;
